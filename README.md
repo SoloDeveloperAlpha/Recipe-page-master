@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Recipe page master</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://recipe-page-master-f04b8.web.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/qRzHaWiVM27V3rxKEG9f">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -37,22 +37,24 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://firebasestorage.googleapis.com/v0/b/recipe-page-master-f04b8.appspot.com/o/recipe%20cake.png?alt=media&token=89478dde-484c-46df-a1b0-fc5f01601014)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+- * You can see it on this page : https://recipe-page-master-f04b8.web.app
 - What was your experience?
+- * Nothing special
 - What have you learned/improved?
-- Your wisdom? :)
+- * Remember a little better the structure of html and the handling of structures with grid or flex
+- Your wisdom? 
+- * I'm still improving HTML5 , CSS3 ,JAVASCRIPT
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- Just with HTML5 and CSS3
 
 ## Features
 
@@ -89,6 +91,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website Maybe in the future
+- GitHub [@SoloDeveloperAlpha](https://github.com/SoloDeveloperAlpha)
+- Twitter Maybe in the future
